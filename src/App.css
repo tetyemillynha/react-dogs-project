@@ -34,8 +34,12 @@ button, input{
   display: block;
   font-size: 1rem;
   font-family: var(--type-first);
-  padding: 1rem;
+  padding: 0.5rem;
   color: #333;
+}
+
+input{
+  margin-bottom: 0.5rem;
 }
 
 .container{
